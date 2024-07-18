@@ -1,0 +1,702 @@
+[
+    {
+        "id_logement": "logement-0",
+        "annee_logement": 2006,
+        "surface_habitable": 63,
+        "nb_murs_deperditifs": 4,
+        "nb_fenetres_logement": 7
+    },
+    {
+        "id_logement": "logement-1",
+        "annee_logement": 1979,
+        "surface_habitable": 122,
+        "nb_murs_deperditifs": 3,
+        "nb_fenetres_logement": 14
+    },
+    {
+        "id_logement": "logement-2",
+        "annee_logement": 2010,
+        "surface_habitable": 114,
+        "nb_murs_deperditifs": 3,
+        "nb_fenetres_logement": 13
+    },
+    {
+        "id_logement": "logement-3",
+        "annee_logement": 1974,
+        "surface_habitable": 138,
+        "nb_murs_deperditifs": 3,
+        "nb_fenetres_logement": 13
+    },
+    {
+        "id_logement": "logement-4",
+        "annee_logement": 1968,
+        "surface_habitable": 95,
+        "nb_murs_deperditifs": 3,
+        "nb_fenetres_logement": 12
+    },
+    {
+        "id_logement": "logement-5",
+        "annee_logement": 1962,
+        "surface_habitable": 102,
+        "nb_murs_deperditifs": 4,
+        "nb_fenetres_logement": 9
+    },
+    {
+        "id_logement": "logement-6",
+        "annee_logement": 1916,
+        "surface_habitable": 108,
+        "nb_murs_deperditifs": 2,
+        "nb_fenetres_logement": 13
+    },
+    {
+        "id_logement": "logement-7",
+        "annee_logement": 1958,
+        "surface_habitable": 28,
+        "nb_murs_deperditifs": 4,
+        "nb_fenetres_logement": 5
+    },
+    {
+        "id_logement": "logement-8",
+        "annee_logement": 1997,
+        "surface_habitable": 80,
+        "nb_murs_deperditifs": 4,
+        "nb_fenetres_logement": 8
+    },
+    {
+        "id_logement": "logement-9",
+        "annee_logement": 1982,
+        "surface_habitable": 31,
+        "nb_murs_deperditifs": 4,
+        "nb_fenetres_logement": 2
+    },
+    {
+        "id_logement": "logement-10",
+        "annee_logement": 1926,
+        "surface_habitable": 80,
+        "nb_murs_deperditifs": 3,
+        "nb_fenetres_logement": 9
+    },
+    {
+        "id_logement": "logement-11",
+        "annee_logement": 1982,
+        "surface_habitable": 50,
+        "nb_murs_deperditifs": 3,
+        "nb_fenetres_logement": 6
+    },
+    {
+        "id_logement": "logement-12",
+        "annee_logement": 1955,
+        "surface_habitable": 115,
+        "nb_murs_deperditifs": 2,
+        "nb_fenetres_logement": 11
+    },
+    {
+        "id_logement": "logement-13",
+        "annee_logement": 1914,
+        "surface_habitable": 37,
+        "nb_murs_deperditifs": 3,
+        "nb_fenetres_logement": 6
+    },
+    {
+        "id_logement": "logement-14",
+        "annee_logement": 1937,
+        "surface_habitable": 90,
+        "nb_murs_deperditifs": 4,
+        "nb_fenetres_logement": 8
+    },
+    {
+        "id_logement": "logement-15",
+        "annee_logement": 2004,
+        "surface_habitable": 82,
+        "nb_murs_deperditifs": 4,
+        "nb_fenetres_logement": 9
+    },
+    {
+        "id_logement": "logement-16",
+        "annee_logement": 1946,
+        "surface_habitable": 27,
+        "nb_murs_deperditifs": 3,
+        "nb_fenetres_logement": 2
+    },
+    {
+        "id_logement": "logement-17",
+        "annee_logement": 1922,
+        "surface_habitable": 33,
+        "nb_murs_deperditifs": 2,
+        "nb_fenetres_logement": 3
+    },
+    {
+        "id_logement": "logement-18",
+        "annee_logement": 1958,
+        "surface_habitable": 137,
+        "nb_murs_deperditifs": 2,
+        "nb_fenetres_logement": 13
+    },
+    {
+        "id_logement": "logement-19",
+        "annee_logement": 2020,
+        "surface_habitable": 50,
+        "nb_murs_deperditifs": 2,
+        "nb_fenetres_logement": 5
+    },
+    {
+        "id_logement": "logement-20",
+        "annee_logement": 2010,
+        "surface_habitable": 78,
+        "nb_murs_deperditifs": 2,
+        "nb_fenetres_logement": 8
+    },
+    {
+        "id_logement": "logement-21",
+        "annee_logement": 2016,
+        "surface_habitable": 134,
+        "nb_murs_deperditifs": 3,
+        "nb_fenetres_logement": 14
+    },
+    {
+        "id_logement": "logement-22",
+        "annee_logement": 1914,
+        "surface_habitable": 137,
+        "nb_murs_deperditifs": 3,
+        "nb_fenetres_logement": 13
+    },
+    {
+        "id_logement": "logement-23",
+        "annee_logement": 1997,
+        "surface_habitable": 123,
+        "nb_murs_deperditifs": 4,
+        "nb_fenetres_logement": 12
+    },
+    {
+        "id_logement": "logement-24",
+        "annee_logement": 1943,
+        "surface_habitable": 108,
+        "nb_murs_deperditifs": 4,
+        "nb_fenetres_logement": 11
+    },
+    {
+        "id_logement": "logement-25",
+        "annee_logement": 1936,
+        "surface_habitable": 122,
+        "nb_murs_deperditifs": 4,
+        "nb_fenetres_logement": 13
+    },
+    {
+        "id_logement": "logement-26",
+        "annee_logement": 1956,
+        "surface_habitable": 137,
+        "nb_murs_deperditifs": 4,
+        "nb_fenetres_logement": 16
+    },
+    {
+        "id_logement": "logement-27",
+        "annee_logement": 2007,
+        "surface_habitable": 93,
+        "nb_murs_deperditifs": 4,
+        "nb_fenetres_logement": 10
+    },
+    {
+        "id_logement": "logement-28",
+        "annee_logement": 1990,
+        "surface_habitable": 98,
+        "nb_murs_deperditifs": 3,
+        "nb_fenetres_logement": 12
+    },
+    {
+        "id_logement": "logement-29",
+        "annee_logement": 1995,
+        "surface_habitable": 50,
+        "nb_murs_deperditifs": 3,
+        "nb_fenetres_logement": 5
+    },
+    {
+        "id_logement": "logement-30",
+        "annee_logement": 1970,
+        "surface_habitable": 47,
+        "nb_murs_deperditifs": 3,
+        "nb_fenetres_logement": 4
+    },
+    {
+        "id_logement": "logement-31",
+        "annee_logement": 1920,
+        "surface_habitable": 36,
+        "nb_murs_deperditifs": 2,
+        "nb_fenetres_logement": 4
+    },
+    {
+        "id_logement": "logement-32",
+        "annee_logement": 2000,
+        "surface_habitable": 118,
+        "nb_murs_deperditifs": 3,
+        "nb_fenetres_logement": 12
+    },
+    {
+        "id_logement": "logement-33",
+        "annee_logement": 2017,
+        "surface_habitable": 39,
+        "nb_murs_deperditifs": 4,
+        "nb_fenetres_logement": 4
+    },
+    {
+        "id_logement": "logement-34",
+        "annee_logement": 1998,
+        "surface_habitable": 94,
+        "nb_murs_deperditifs": 2,
+        "nb_fenetres_logement": 9
+    },
+    {
+        "id_logement": "logement-35",
+        "annee_logement": 1947,
+        "surface_habitable": 116,
+        "nb_murs_deperditifs": 2,
+        "nb_fenetres_logement": 13
+    },
+    {
+        "id_logement": "logement-36",
+        "annee_logement": 1913,
+        "surface_habitable": 106,
+        "nb_murs_deperditifs": 4,
+        "nb_fenetres_logement": 13
+    },
+    {
+        "id_logement": "logement-37",
+        "annee_logement": 2001,
+        "surface_habitable": 71,
+        "nb_murs_deperditifs": 3,
+        "nb_fenetres_logement": 7
+    },
+    {
+        "id_logement": "logement-38",
+        "annee_logement": 1931,
+        "surface_habitable": 28,
+        "nb_murs_deperditifs": 4,
+        "nb_fenetres_logement": 4
+    },
+    {
+        "id_logement": "logement-39",
+        "annee_logement": 1991,
+        "surface_habitable": 24,
+        "nb_murs_deperditifs": 4,
+        "nb_fenetres_logement": 3
+    },
+    {
+        "id_logement": "logement-40",
+        "annee_logement": 1915,
+        "surface_habitable": 95,
+        "nb_murs_deperditifs": 4,
+        "nb_fenetres_logement": 11
+    },
+    {
+        "id_logement": "logement-41",
+        "annee_logement": 1966,
+        "surface_habitable": 21,
+        "nb_murs_deperditifs": 3,
+        "nb_fenetres_logement": 1
+    },
+    {
+        "id_logement": "logement-42",
+        "annee_logement": 1956,
+        "surface_habitable": 133,
+        "nb_murs_deperditifs": 2,
+        "nb_fenetres_logement": 12
+    },
+    {
+        "id_logement": "logement-43",
+        "annee_logement": 1933,
+        "surface_habitable": 24,
+        "nb_murs_deperditifs": 4,
+        "nb_fenetres_logement": 1
+    },
+    {
+        "id_logement": "logement-44",
+        "annee_logement": 1949,
+        "surface_habitable": 108,
+        "nb_murs_deperditifs": 2,
+        "nb_fenetres_logement": 10
+    },
+    {
+        "id_logement": "logement-45",
+        "annee_logement": 1936,
+        "surface_habitable": 125,
+        "nb_murs_deperditifs": 2,
+        "nb_fenetres_logement": 13
+    },
+    {
+        "id_logement": "logement-46",
+        "annee_logement": 1917,
+        "surface_habitable": 118,
+        "nb_murs_deperditifs": 3,
+        "nb_fenetres_logement": 13
+    },
+    {
+        "id_logement": "logement-47",
+        "annee_logement": 1948,
+        "surface_habitable": 110,
+        "nb_murs_deperditifs": 4,
+        "nb_fenetres_logement": 11
+    },
+    {
+        "id_logement": "logement-48",
+        "annee_logement": 1918,
+        "surface_habitable": 91,
+        "nb_murs_deperditifs": 4,
+        "nb_fenetres_logement": 9
+    },
+    {
+        "id_logement": "logement-49",
+        "annee_logement": 1977,
+        "surface_habitable": 77,
+        "nb_murs_deperditifs": 4,
+        "nb_fenetres_logement": 10
+    },
+    {
+        "id_logement": "logement-50",
+        "annee_logement": 1989,
+        "surface_habitable": 70,
+        "nb_murs_deperditifs": 3,
+        "nb_fenetres_logement": 6
+    },
+    {
+        "id_logement": "logement-51",
+        "annee_logement": 1950,
+        "surface_habitable": 99,
+        "nb_murs_deperditifs": 4,
+        "nb_fenetres_logement": 9
+    },
+    {
+        "id_logement": "logement-52",
+        "annee_logement": 1922,
+        "surface_habitable": 125,
+        "nb_murs_deperditifs": 4,
+        "nb_fenetres_logement": 13
+    },
+    {
+        "id_logement": "logement-53",
+        "annee_logement": 1963,
+        "surface_habitable": 86,
+        "nb_murs_deperditifs": 2,
+        "nb_fenetres_logement": 10
+    },
+    {
+        "id_logement": "logement-54",
+        "annee_logement": 1925,
+        "surface_habitable": 80,
+        "nb_murs_deperditifs": 3,
+        "nb_fenetres_logement": 10
+    },
+    {
+        "id_logement": "logement-55",
+        "annee_logement": 1954,
+        "surface_habitable": 43,
+        "nb_murs_deperditifs": 4,
+        "nb_fenetres_logement": 5
+    },
+    {
+        "id_logement": "logement-56",
+        "annee_logement": 1916,
+        "surface_habitable": 126,
+        "nb_murs_deperditifs": 2,
+        "nb_fenetres_logement": 15
+    },
+    {
+        "id_logement": "logement-57",
+        "annee_logement": 1911,
+        "surface_habitable": 53,
+        "nb_murs_deperditifs": 4,
+        "nb_fenetres_logement": 5
+    },
+    {
+        "id_logement": "logement-58",
+        "annee_logement": 2001,
+        "surface_habitable": 114,
+        "nb_murs_deperditifs": 2,
+        "nb_fenetres_logement": 11
+    },
+    {
+        "id_logement": "logement-59",
+        "annee_logement": 1971,
+        "surface_habitable": 65,
+        "nb_murs_deperditifs": 2,
+        "nb_fenetres_logement": 7
+    },
+    {
+        "id_logement": "logement-60",
+        "annee_logement": 1915,
+        "surface_habitable": 38,
+        "nb_murs_deperditifs": 2,
+        "nb_fenetres_logement": 5
+    },
+    {
+        "id_logement": "logement-61",
+        "annee_logement": 1926,
+        "surface_habitable": 58,
+        "nb_murs_deperditifs": 3,
+        "nb_fenetres_logement": 7
+    },
+    {
+        "id_logement": "logement-62",
+        "annee_logement": 2012,
+        "surface_habitable": 42,
+        "nb_murs_deperditifs": 4,
+        "nb_fenetres_logement": 3
+    },
+    {
+        "id_logement": "logement-63",
+        "annee_logement": 1952,
+        "surface_habitable": 90,
+        "nb_murs_deperditifs": 2,
+        "nb_fenetres_logement": 10
+    },
+    {
+        "id_logement": "logement-64",
+        "annee_logement": 1946,
+        "surface_habitable": 106,
+        "nb_murs_deperditifs": 2,
+        "nb_fenetres_logement": 10
+    },
+    {
+        "id_logement": "logement-65",
+        "annee_logement": 1993,
+        "surface_habitable": 105,
+        "nb_murs_deperditifs": 4,
+        "nb_fenetres_logement": 11
+    },
+    {
+        "id_logement": "logement-66",
+        "annee_logement": 1940,
+        "surface_habitable": 102,
+        "nb_murs_deperditifs": 4,
+        "nb_fenetres_logement": 11
+    },
+    {
+        "id_logement": "logement-67",
+        "annee_logement": 1959,
+        "surface_habitable": 111,
+        "nb_murs_deperditifs": 2,
+        "nb_fenetres_logement": 10
+    },
+    {
+        "id_logement": "logement-68",
+        "annee_logement": 1952,
+        "surface_habitable": 90,
+        "nb_murs_deperditifs": 4,
+        "nb_fenetres_logement": 11
+    },
+    {
+        "id_logement": "logement-69",
+        "annee_logement": 1949,
+        "surface_habitable": 64,
+        "nb_murs_deperditifs": 2,
+        "nb_fenetres_logement": 7
+    },
+    {
+        "id_logement": "logement-70",
+        "annee_logement": 1993,
+        "surface_habitable": 130,
+        "nb_murs_deperditifs": 4,
+        "nb_fenetres_logement": 13
+    },
+    {
+        "id_logement": "logement-71",
+        "annee_logement": 1964,
+        "surface_habitable": 39,
+        "nb_murs_deperditifs": 4,
+        "nb_fenetres_logement": 3
+    },
+    {
+        "id_logement": "logement-72",
+        "annee_logement": 2020,
+        "surface_habitable": 109,
+        "nb_murs_deperditifs": 2,
+        "nb_fenetres_logement": 13
+    },
+    {
+        "id_logement": "logement-73",
+        "annee_logement": 1996,
+        "surface_habitable": 80,
+        "nb_murs_deperditifs": 4,
+        "nb_fenetres_logement": 9
+    },
+    {
+        "id_logement": "logement-74",
+        "annee_logement": 2011,
+        "surface_habitable": 101,
+        "nb_murs_deperditifs": 3,
+        "nb_fenetres_logement": 9
+    },
+    {
+        "id_logement": "logement-75",
+        "annee_logement": 1950,
+        "surface_habitable": 54,
+        "nb_murs_deperditifs": 3,
+        "nb_fenetres_logement": 6
+    },
+    {
+        "id_logement": "logement-76",
+        "annee_logement": 1981,
+        "surface_habitable": 126,
+        "nb_murs_deperditifs": 4,
+        "nb_fenetres_logement": 14
+    },
+    {
+        "id_logement": "logement-77",
+        "annee_logement": 1979,
+        "surface_habitable": 47,
+        "nb_murs_deperditifs": 4,
+        "nb_fenetres_logement": 6
+    },
+    {
+        "id_logement": "logement-78",
+        "annee_logement": 2017,
+        "surface_habitable": 90,
+        "nb_murs_deperditifs": 2,
+        "nb_fenetres_logement": 8
+    },
+    {
+        "id_logement": "logement-79",
+        "annee_logement": 1954,
+        "surface_habitable": 113,
+        "nb_murs_deperditifs": 4,
+        "nb_fenetres_logement": 13
+    },
+    {
+        "id_logement": "logement-80",
+        "annee_logement": 1965,
+        "surface_habitable": 22,
+        "nb_murs_deperditifs": 4,
+        "nb_fenetres_logement": 2
+    },
+    {
+        "id_logement": "logement-81",
+        "annee_logement": 2007,
+        "surface_habitable": 122,
+        "nb_murs_deperditifs": 3,
+        "nb_fenetres_logement": 14
+    },
+    {
+        "id_logement": "logement-82",
+        "annee_logement": 1994,
+        "surface_habitable": 41,
+        "nb_murs_deperditifs": 4,
+        "nb_fenetres_logement": 6
+    },
+    {
+        "id_logement": "logement-83",
+        "annee_logement": 1979,
+        "surface_habitable": 58,
+        "nb_murs_deperditifs": 4,
+        "nb_fenetres_logement": 6
+    },
+    {
+        "id_logement": "logement-84",
+        "annee_logement": 1914,
+        "surface_habitable": 119,
+        "nb_murs_deperditifs": 4,
+        "nb_fenetres_logement": 14
+    },
+    {
+        "id_logement": "logement-85",
+        "annee_logement": 1928,
+        "surface_habitable": 63,
+        "nb_murs_deperditifs": 4,
+        "nb_fenetres_logement": 8
+    },
+    {
+        "id_logement": "logement-86",
+        "annee_logement": 1994,
+        "surface_habitable": 55,
+        "nb_murs_deperditifs": 3,
+        "nb_fenetres_logement": 5
+    },
+    {
+        "id_logement": "logement-87",
+        "annee_logement": 1954,
+        "surface_habitable": 90,
+        "nb_murs_deperditifs": 4,
+        "nb_fenetres_logement": 9
+    },
+    {
+        "id_logement": "logement-88",
+        "annee_logement": 1921,
+        "surface_habitable": 89,
+        "nb_murs_deperditifs": 3,
+        "nb_fenetres_logement": 11
+    },
+    {
+        "id_logement": "logement-89",
+        "annee_logement": 1938,
+        "surface_habitable": 97,
+        "nb_murs_deperditifs": 2,
+        "nb_fenetres_logement": 12
+    },
+    {
+        "id_logement": "logement-90",
+        "annee_logement": 1923,
+        "surface_habitable": 42,
+        "nb_murs_deperditifs": 4,
+        "nb_fenetres_logement": 5
+    },
+    {
+        "id_logement": "logement-91",
+        "annee_logement": 2002,
+        "surface_habitable": 72,
+        "nb_murs_deperditifs": 2,
+        "nb_fenetres_logement": 6
+    },
+    {
+        "id_logement": "logement-92",
+        "annee_logement": 1917,
+        "surface_habitable": 105,
+        "nb_murs_deperditifs": 2,
+        "nb_fenetres_logement": 10
+    },
+    {
+        "id_logement": "logement-93",
+        "annee_logement": 1969,
+        "surface_habitable": 82,
+        "nb_murs_deperditifs": 4,
+        "nb_fenetres_logement": 9
+    },
+    {
+        "id_logement": "logement-94",
+        "annee_logement": 1964,
+        "surface_habitable": 62,
+        "nb_murs_deperditifs": 2,
+        "nb_fenetres_logement": 5
+    },
+    {
+        "id_logement": "logement-95",
+        "annee_logement": 1989,
+        "surface_habitable": 78,
+        "nb_murs_deperditifs": 3,
+        "nb_fenetres_logement": 9
+    },
+    {
+        "id_logement": "logement-96",
+        "annee_logement": 1992,
+        "surface_habitable": 100,
+        "nb_murs_deperditifs": 4,
+        "nb_fenetres_logement": 11
+    },
+    {
+        "id_logement": "logement-97",
+        "annee_logement": 1997,
+        "surface_habitable": 49,
+        "nb_murs_deperditifs": 4,
+        "nb_fenetres_logement": 5
+    },
+    {
+        "id_logement": "logement-98",
+        "annee_logement": 1989,
+        "surface_habitable": 22,
+        "nb_murs_deperditifs": 4,
+        "nb_fenetres_logement": 2
+    },
+    {
+        "id_logement": "logement-99",
+        "annee_logement": 1957,
+        "surface_habitable": 78,
+        "nb_murs_deperditifs": 4,
+        "nb_fenetres_logement": 10
+    }
+]
